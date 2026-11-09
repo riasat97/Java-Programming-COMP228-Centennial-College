@@ -6,6 +6,7 @@
 
 ## Overview
 A desktop **College Student Registration** application built entirely in pure Java code (without FXML) to demonstrate nested JavaFX layout managers, UI styling, and event-driven form validation.
+<img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/1300fa38-457b-4191-a0e6-6c645e7250ef" />
 
 ## Layout Architecture
 The interface combines four core JavaFX layout panes:
