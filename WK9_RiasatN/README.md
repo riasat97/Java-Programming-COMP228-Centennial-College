@@ -6,6 +6,8 @@
 
 ## Overview
 A desktop **Hospital Management System** module designed to maintain patient registration and clinical records. Built with JavaFX for the user interface and JDBC (`PreparedStatement` and `ResultSet` with `try-with-resources`) to perform full **Create, Read, Update, Delete (CRUD)**, search, and clinical workflow operations against a MySQL database (`hospital_db`).
+<img width="1908" height="1076" alt="image" src="https://github.com/user-attachments/assets/529c964f-b61c-43a0-94f0-dbc7d1c86069" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5dad9a5e-5e3e-4a17-a862-04381da6caca" />
 
 
 ## Architecture & Optional Extensions Implemented
@@ -44,7 +46,7 @@ SOURCE database.sql;
 2. Ensure **JavaFX SDK 25** and **MySQL Connector/J (`mysql-connector-j.jar`)** are configured on the project's Build Path (**Libraries -> Modulepath / Classpath**).
 3. Verify `src/module-info.java` contains:
    ```java
-   module Wk8_BorderPane {
+   module Wk9_RiasatN {
        requires javafx.controls;
        requires javafx.graphics;
        requires javafx.base;
