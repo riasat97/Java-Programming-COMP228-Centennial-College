@@ -8,6 +8,8 @@
 ## Overview
 A desktop **Employment Application** form built with JavaFX and connected to a MySQL database (`javafxsample`) using JDBC. The application replicates the standard two-section employment form (**Personal Information** and **Employment Eligibility**), validates user input, and inserts completed applications into MySQL using parameterized `PreparedStatement` queries with transaction management.
 
+<img width="1534" height="862" alt="Screenshot 2026-11-18 134105" src="https://github.com/user-attachments/assets/34328c61-5bdf-4a45-ad18-33308d9f46d9" />
+<img width="1534" height="862" alt="Screenshot 2026-11-18 134145" src="https://github.com/user-attachments/assets/e592b636-d278-4043-b139-6dc8fde27248" />
 ## Form Sections & UI Controls
 
 ### 1. Header Banner
